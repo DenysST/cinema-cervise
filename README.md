@@ -29,3 +29,5 @@ Also, you can get all information about completed orders, available movie sessio
 - PUT - /movie-sessions/id - ADMIN,
 - PUT - /shopping-carts/movie-sessions?movieSessionId - USER;
 - DELETE - /movie-sessions/id - ADMIN.
+
+You can log in as Admin: (name: "admin@gmail.com", password:"12345")
