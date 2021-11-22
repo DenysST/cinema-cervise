@@ -21,10 +21,10 @@ An app can be used to organize the interactions between the customer and selling
 
 # Technologies
 - Java 11
-- MySQL
 - Hibernate
 - Spring
 - Tomcat
+- MySQL
 - JSON
 
 # Configuration
